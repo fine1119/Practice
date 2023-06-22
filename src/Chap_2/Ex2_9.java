@@ -38,7 +38,6 @@ public class Ex2_9 {
         System.out.printf("d=%14.3f", d); // 1.235 (반올림해서 원하는 자리까지만 출력)
 
 
-        System.out.println("------------------");
 
         // 5. 문자열(string)에서 원하는 길이만큼 출력공간 확보 혹은 일부만 출력 가능
         String url = "www.codechobo.com";
