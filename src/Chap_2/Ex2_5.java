@@ -10,5 +10,13 @@ public class Ex2_5 {
         System.out.println(x - y); // 5
         System.out.println(x * y); // 50
         System.out.println(x / y); // 2
+
+        x = 20;
+        y = 10;
+
+        System.out.println(x + y); // 30
+        System.out.println(x - y); // 10
+        System.out.println(x * y); // 200
+        System.out.println(x / y); // 2
     }
 }
